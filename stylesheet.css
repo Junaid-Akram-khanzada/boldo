@@ -53,3 +53,31 @@ body{
     line-height: 1.5;
     padding-top: 50px;
 }
+.our-number{
+    padding: 120px 300px;
+    background-color: white;
+}
+.our-number-top{
+    text-align: center;
+}
+.our-number-top h4{
+    font-weight: 100;
+}
+.our-number-top p{
+    font-size: 82px;
+}
+.our-number-bottom{
+    display: flex;
+    justify-content: center;
+}
+.cool h1{
+    font-size: 96px;
+    font-weight: 400;
+    margin: 0 60px ;
+   
+}
+.cool p{
+    margin-left: 72px;
+    font-size: 25px;
+    
+}
