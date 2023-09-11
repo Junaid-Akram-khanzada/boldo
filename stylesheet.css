@@ -149,3 +149,48 @@ color: #777777;
     flex-wrap: wrap;
     justify-content: end;
 }
+.our-blog-left h1{
+    line-height: 4.5;
+}
+.commiteed{
+    color: #69E6A6;
+}
+.our-blog-top h4{
+color: #ffffff;
+font-size: 20px;
+}
+.our-blog-top p{
+    font-size: 60px;
+}
+.our-blog-top{
+    text-align: center;
+}
+.our-blog-left h1{
+    font-size: 48px;
+}
+.our-blog-left{
+ width: 1138px;
+}
+.our-blog-bottom{
+    display: flex;
+}
+.our-blog-right p{
+    margin: 142px 0px 205px 188px;
+    font-size: 20px;
+}
+.our-blog-right{
+    /* width: 300px; */
+}
+.mass{
+    margin-top: 240px;
+}
+.frist{
+    margin-top: 230px;
+}
+.our-blog{
+    background-color: rgb(39, 39, 63);
+    color: azure;
+}
+.our-blog-contain{
+    padding: 100px 0px;
+}
