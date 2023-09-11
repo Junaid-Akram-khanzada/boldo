@@ -78,6 +78,29 @@ body{
 }
 .cool p{
     margin-left: 72px;
-    font-size: 25px;
-    
+    font-size: 25px;    
 }
+.our-story-contain{
+    padding: 120px 300px;
+    font-size: 32px;
+
+}
+.our-story{
+    background-color: #0A2640;
+    color: aliceblue;
+}
+.story h1{
+    font-size: 60px;
+    font-weight: 100;
+}
+.story h4{
+    font-size: 30px;
+    font-weight: 100;
+}
+.story p{
+    font-size: 28px;
+    width: 963px;
+    font-weight: 100;
+    line-height: 1.5;
+}
+
