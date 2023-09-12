@@ -39,7 +39,6 @@ body{
 }
 .header-bottom-left{
     width: 420px;
-    
 }
 .header-bottom-left p{
     line-height: 1.5;
@@ -379,4 +378,34 @@ font-size: 13px;
 }
 .Chandler p{
     padding: 0 0px 0px 40px;
+}
+.backing{
+    width: 300px;
+}
+.Chandler-one img{
+     padding: 20px 30px 20px 0; 
+    display: flex;
+    width: 50px;
+}
+.Chandler-one{
+    display: flex;
+}
+.Chandler-one p{
+    padding: 24px 0 0 0;   
+}
+.frist-div{
+    margin-top: 50px;
+}
+.button {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+.button input{
+    border: 2px solid #000000;
+    font-size: 20px;
+    border-radius: 56px;
+    padding: 16px 56px;
+    background-color: white;
+    font-weight: 700;;
 }
