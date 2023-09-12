@@ -352,3 +352,31 @@ font-size: 13px;
 .Category-two{
     display: flex;
 }
+
+.backing{
+    font-size: 20px;
+    width: 200px;
+}
+.Chandler{
+    font-size: 16px;
+    color: #000000;
+    display: flex;
+}
+.chandler img{
+    width: 52px;
+    padding: 0 24px 0 0;
+}
+.all-framee{
+    display: flex;
+    justify-content: space-between;
+}
+.two-frame{
+    display: flex;
+    justify-content: space-between  ;
+}
+.Chandler img{
+    width: 50px;
+}
+.Chandler p{
+    padding: 0 0px 0px 40px;
+}
