@@ -312,3 +312,43 @@ font-size: 13px;
 .bottom{
     display: flex;
 }
+
+.bottom-right{
+    padding: 85px 0 0 195px;
+    margin: 0 0 84px 0;
+}
+.Category{
+    display: flex;
+    font-size: 16px;
+}
+.Category p{
+    color: #777777;
+    padding: 6px 25px;
+}
+.Pitch{
+    font-size: 48px;
+    width: 500px;
+}
+.Bing{
+    display: flex;
+    font: 16px;
+}
+.Bing p{
+    color: #777777;
+    padding: 6px 25px;
+}
+.Bing img{
+    width: 60px;
+}
+.news-top h1{
+    font-size: 48px;
+    padding-top: 50px;
+}
+.Category-two p{
+    color: #777777;
+    font-size: 16px;
+    padding: 6px 0 0 20px;
+}
+.Category-two{
+    display: flex;
+}
