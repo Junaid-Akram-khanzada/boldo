@@ -314,8 +314,157 @@ font-size: 13px;
     display: block;
     padding-left: 29px;
 }
+.our-story-contain{
+    padding: 20px;
+    font-size: 10px;
+    width: 360px;
+}
+.our-story{
+    background-color: #0A2640;
+    color: aliceblue;
+}
+.story h1{
+    font-size: 60px;
+    font-weight: 100;
+}
+.story h4{
+    font-size: 30px;
+    font-weight: 100;
+}
+.story p{
+    font-size: 28px;
+    width: 963px;
+    font-weight: 100;
+    line-height: 1.5;
+}
+.our-work-top h4{
+    color: #000000;
+    font-size: 20px;
+}
+.our-work-contain{
+    padding: 124px 250px ;
+}
+.our-work-top h1{
+    font-size: 48px;
+    color: #000000;
+}
+.mycel{
+    display: flex;
+    justify-content: space-between;
+   
+}
+.mycel-one{
+    padding: 56px 40px;    
+}
+.mycel-one h4{
+    color: #777777;
+    font-size: 20px;   
+}
+.mycel-one h1{
+    font-size: 28px;
+}
+.gernal-manager-list{
+    display: flex;
 
- 
+    padding: 46px 148px 23px 0px;
+}
+.g-m{
+    margin-left: 20px;
+}
+.g-m h4{
+font-size: 20px;
+color: #777777;
+}
+.g-m h1{
+    font-size: 28px;
+}
+.gernal-mangers{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: end;
+}
+.our-number-bottom{
+    display: flex;
+    justify-content: center;
+}
+.cool h1{
+    font-size: 96px;
+    font-weight: 400;
+    margin: 0 60px ;
+}
+.cool p{
+    margin-left: 72px;
+    font-size: 25px;    
+}
+.our-story-contain{
+    padding: 120px 300px;
+    font-size: 32px;
+}
+.our-story{
+    background-color: #0A2640;
+    color: aliceblue;
+}
+.story h1{
+    font-size: 60px;
+    font-weight: 100;
+}
+.story h4{
+    font-size: 30px;
+    font-weight: 100;
+}
+.story p{
+    font-size: 28px;
+    width: 963px;
+    font-weight: 100;
+    line-height: 1.5;
+}
+.our-work-top h4{
+    color: #000000;
+    font-size: 20px;
+}
+.our-work-contain{
+    padding: 124px 250px ;
+}
+
+.our-work-top h1{
+    font-size: 48px;
+    color: #000000;
+}
+.mycel{
+    display: flex;
+    justify-content: space-between;
+   
+}
+.mycel-one{
+    padding: 56px 40px;    
+}
+.mycel-one h4{
+    color: #777777;
+    font-size: 20px;   
+}
+.mycel-one h1{
+    font-size: 28px;
+}
+.gernal-manager-list{
+    display: flex;
+
+    padding: 46px 148px 23px 0px;
+}
+.g-m{
+    margin-left: 20px;
+}
+.g-m h4{
+font-size: 20px;
+color: #777777;
+}
+.g-m h1{
+    font-size: 28px;
+}
+.gernal-mangers{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: end;
+}
   }
  
 
