@@ -65,7 +65,7 @@ body{
 .our-number-topp p{
     font-size: 82px;
 }
-.our-number-bottom{
+.our-numbeer-bottom{
     display: flex;
     justify-content: center;
 }
@@ -308,14 +308,14 @@ font-size: 13px;
     }
     .our-number-topp p{
         text-align: center;
-        font-size: 30px;
-       
+        font-size: 30px; 
     }
-   
-    .our-number-bottom{
-        display: flex;
-        justify-content: center;
-    }
+.our-numbeer-bottom{
+    display: block;
+    padding-left: 29px;
+}
+
+ 
   }
  
 
