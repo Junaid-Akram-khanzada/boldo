@@ -56,13 +56,13 @@ body{
     padding: 120px 300px;
     background-color: white;
 }
-.our-number-top{
+.our-number-topp{
     text-align: center;
 }
-.our-number-top h4{
+.our-number-topp h4{
     font-weight: 100;
 }
-.our-number-top p{
+.our-number-topp p{
     font-size: 82px;
 }
 .our-number-bottom{
@@ -293,19 +293,28 @@ font-size: 13px;
         color: aliceblue;
         font-size: 20px;
         width: 360px;
+        padding-bottom: 10px;
     }
     .our-number-contain{
         width: 360px;
         
     }
     .our-number{
-        padding: 10px 0px;
-        font-size: 20px;
+        padding: 10px 0 0 0 ;
+        font-size: 40px;
     }
-    .our-number-top p{
-        text-align: right;
-        font-size: 10px;
-       margin-right: 0px;
+    .our-number-topp h4 {
+    margin: 25px;
+    }
+    .our-number-topp p{
+        text-align: center;
+        font-size: 30px;
+       
+    }
+   
+    .our-number-bottom{
+        display: flex;
+        justify-content: center;
     }
   }
  
